@@ -1,0 +1,9 @@
+irys-data-viz/
+├── src/
+│   ├── components/
+│   │   └── DataStreamViz.jsx    # Main visualization component
+├── backend/
+│   └── main.go                  # Go backend for Irys integration
+├── .gitignore
+├── README.md
+└── package.json
